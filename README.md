@@ -1,8 +1,13 @@
 # 👷‍♂️ Mini Service Request Board
 
+🔗 **Live Frontend UI Preview:** [https://globaltna-assessment-blush.vercel.app/](https://globaltna-assessment-blush.vercel.app/)
+
 A production-ready, full-stack trade platform built for the GlobalTNA Intern Technical Assessment. Homeowners can seamlessly post service requests, while tradespeople can browse active listings, filter requests by professional industry category, track statuses dynamically, and manage database records.
 
+> 💡 **Note on Live Preview:** The Vercel link above provides an immediate live preview of the frontend interface and responsive design. To test full-stack operations (database reads/writes, status updates, and deletions), please follow the quick local execution guide below.
+
 ---
+
 
 ## 📸 Application Previews & Screens
 
